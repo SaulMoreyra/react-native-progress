@@ -1,3 +1,7 @@
+# Example
+![image](https://github.com/SaulMoreyra/react-native-progress/assets/43731088/7fce63b7-ce11-4b86-8b56-a8baff0d4b5a)
+
+
 # TypeScript Example
 
 <p>
